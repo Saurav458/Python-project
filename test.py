@@ -1,1 +1,3 @@
-print("Hello, Python in VS Code! 123123")
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+    print(x)
